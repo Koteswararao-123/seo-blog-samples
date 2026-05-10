@@ -17,23 +17,23 @@ These tasks include learning, problem-solving, speech recognition, and decision-
 
 AI helps automate repetitive and time-consuming tasks. This improves efficiency and saves valuable time for businesses and employees.
 
-3. **Faster Decision Making**
+**2. Faster Decision Making**
 
 AI systems can analyze large amounts of data quickly and provide accurate insights. This helps organizations make faster and smarter decisions.
 
-5. **Improved Customer Support**
+**3. Improved Customer Support**
 
 Many companies use AI chatbots and virtual assistants to provide 24/7 customer support and improve user experience.
 
-7. **Better Accuracy**
+**4. Better Accuracy**
 
 AI reduces human errors in tasks such as data analysis, calculations, and predictions, leading to improved accuracy.
 
-9. **Growth in Healthcare**
+**5. Growth in Healthcare**
 
 AI is helping doctors detect diseases, analyze medical reports, and improve patient care through advanced technologies.
 
-11. **Personalized User Experience**
+**6. Personalized User Experience**
 
 Platforms like Netflix, YouTube, and Amazon use AI to recommend content and products based on user preferences.
 

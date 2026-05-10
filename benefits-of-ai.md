@@ -13,7 +13,7 @@ These tasks include learning, problem-solving, speech recognition, and decision-
 
 ## Benefits of Artificial Intelligence
 
-1. **Automation of Repetitive Tasks**
+**1. Automation of Repetitive Tasks**
 
 AI helps automate repetitive and time-consuming tasks. This improves efficiency and saves valuable time for businesses and employees.
 
